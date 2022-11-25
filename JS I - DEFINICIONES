@@ -1,7 +1,0 @@
-Variables: una variable es como una 'cajita', donde yo puede guardar dentro diferentes valores. El nombre de la variable nos sirve para referirnos a 'eso' que esta dentro
-Strings: una secuencia de texto formado por diferentes caracteres. Como si fuese un hilo
-Funciones: sirven para 'hacer' algo. Para lograr una devolución después de ejecutar un código. Le pedimos al ordenador una respuesta
-- El argumento es justamente lo que le vamos a pedir a la función. Lo que tiene 'adentro'
-- Return hace referencia al tipo de funciones que nos devuelve un valor definido. Una 'cajita llena'
-Declaraciones if: permite agregar una especie de 'pensmaiento lógico' a un tipo de función. Le pido al programa que analice y me de una respuesta si se cumple cierta cosa
-Valores booleanos: en JS se usan los valores true o false. Estos permiten que el ordenador opte por dos opciones segun la función que yo le pida. Tiene mucho que ver con las declaraciones if porque le pido también un pensamiento lógico para que me de una respuesta
